@@ -1,4 +1,4 @@
-# How to use sopraflipbook in local environment
+# How to use flipbook in local environment
 
 ### Prerequisites
 
@@ -16,6 +16,6 @@ and on line 272 set AllowOverride to All.
 
 * To run `flipbook-web` in your local environment follow below steps:
 
-1. Go to this [link](https://innersource.soprasteria.com/di-codebase/sopraflipbook/flipbook-web) and download
-or clone `sopraflipbook` project in your local directory. 
+1. Go to this [link](https://github.com/rahulverma7062445/flipbook-web/) and download
+or clone `flipbook` project in your local directory. 
 2. Start the server using `httpd.exe -k start` command.
